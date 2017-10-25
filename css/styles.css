@@ -55,6 +55,14 @@ section {
     width: 44%;
     display: inline-block;
   }
+#menu {
+  padding: 1em;
+  background: #fff;
+  display: block;
+}
+.show-menu {
+  display: block;
+}
   nav a:hover {
     background: #777;
   }
